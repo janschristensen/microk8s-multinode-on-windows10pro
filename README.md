@@ -9,7 +9,7 @@ Experimenting with setting up a multinode MicroK8S with multipass and utilizing 
 
 Install with chocolatey or else follow guide https://microk8s.io/docs/ives#heading--winnstall-alternatidows
 
-### Install with chocoatey
+### Install with chocolatey
 ```
 choco install multipass
 choco install jq
